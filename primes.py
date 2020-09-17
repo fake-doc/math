@@ -9,3 +9,7 @@ def primes_upto(n):
             if k%i==0:
                 isPrime = False
             i+=1
+    
+    return primes
+
+
