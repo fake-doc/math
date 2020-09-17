@@ -26,5 +26,3 @@ def one2OneOrNah(start,stop,a,b,c):
     return isOne2One
 
 
-yeet = one2OneOrNah(-1,1,1,0,0)
-print(yeet)
